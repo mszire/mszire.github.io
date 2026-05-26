@@ -1,6 +1,6 @@
 # Mrunalsingh Zire
 
-Personal portfolio website for Mrunalsingh Zire.
+Personal portfolio website of Mrunalsingh Zire.
 
 ## Website
 
